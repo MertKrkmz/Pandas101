@@ -1,4 +1,4 @@
-#pandas-101
+# Pandas101
 
 Gerekli kütüphaneleri yüklemek için `requirements.txt` dosyasını kullanın:
 ```shell
