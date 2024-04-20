@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-file_path = "sample_data.csv" # csv dosyasının yolu
+file_path = "sample_data_1.csv" # csv dosyasının yolu
 data = pd.read_csv(file_path) # csv dosyasını oku
 
 #--------------------------------------------
