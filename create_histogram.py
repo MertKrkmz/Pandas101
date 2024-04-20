@@ -1,8 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-dosya_yolu = "sample_data.csv" # csv dosyasının yolu
-data = pd.read_csv(dosya_yolu) # csv dosyasını oku
+file_path = "sample_data.csv" # csv dosyasının yolu
+data = pd.read_csv(file_path) # csv dosyasını oku
 
 #--------------------------------------------
 # Histogram çizimi
